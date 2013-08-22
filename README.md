@@ -3,7 +3,7 @@ KataTroco
 
 Fork in BSB para transformar números Arábicos em Romanos.
 
-O Objetivo [deste Kata](Solucionando o Kata http://www.dojopuzzles.com/problemas/exibe/troco/) é escrever um código que receba o valor de uma compra e o valor pago e informe como o troco será entregue.
+O Objetivo [deste Kata](http://www.dojopuzzles.com/problemas/exibe/troco/) é escrever um código que receba o valor de uma compra e o valor pago e informe como o troco será entregue.
 
 # Como Proceder ?
 
